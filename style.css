@@ -18,3 +18,16 @@ body {
     padding: 30px;
 
 }
+.perfil{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.perfil img{
+    width: 120;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 50%;
+    .
+}
