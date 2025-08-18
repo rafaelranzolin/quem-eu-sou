@@ -5,11 +5,11 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-body{
+body {
     background: white;
     padding: 20px;
 }
-.container{
+.container {
     max-width: 800px;
     margin: auto;
     background: #fff;
