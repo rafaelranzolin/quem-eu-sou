@@ -65,3 +65,13 @@ body {
 .redes a:hover {
     text-decoration: underline;
 }
+@media (max-width: 600px) {
+    .perfil {
+        flex-direction: colum;
+        text-align: center;
+    }
+
+    .perfil img {
+        margin-bottom: 10px;
+    }
+}
