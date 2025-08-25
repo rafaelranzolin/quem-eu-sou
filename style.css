@@ -50,5 +50,18 @@ body {
     margin-bottom; 10px;
 }
 .sessao ul {
-    list-style: 
+    list-style: none;
+    padding-left: 20px;
+}
+.sessao ul li::before{
+    content: "💎";
+    margin-right: 8px;
+}
+.redes a {
+    margin-right: 10px;
+    color: #6C63ff;
+    text- decoration: none;
+}
+.redes a:hover {
+    text-decoration: underline;
 }
